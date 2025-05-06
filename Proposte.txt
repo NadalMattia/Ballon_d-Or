@@ -1,0 +1,35 @@
+1. Distribuzione dei Punti nei Tre Periodi
+Obiettivo: Confrontare la distribuzione dei punteggi tra i tre periodi: 1956-2009, 2010-2016, 2017-oggi.
+Grafico suggerito:
+Boxplot per confrontare la distribuzione dei punti tra i periodi.
+Linea temporale per visualizzare i punteggi medi annuali.
+2. Nazionalità dei Giocatori Premiate nei Tre Periodi
+Obiettivo: Analizzare come la rappresentanza geografica sia cambiata nei tre periodi.
+Grafico suggerito:
+Istogrammi separati per periodo con il conteggio delle nazionalità.
+Mappa geografica per rappresentare la distribuzione delle nazionalità nel tempo.
+3. Ruoli più Rappresentati nei Tre Periodi
+Obiettivo: Verificare se certi ruoli (es. attaccanti, centrocampisti) dominavano più frequentemente in uno dei tre periodi.
+Grafico suggerito:
+Diagramma a barre raggruppato per mostrare la frequenza dei ruoli nei tre periodi.
+Grafico a torta per il periodo complessivo.
+4. Squadre più Premiate nei Tre Periodi
+Obiettivo: Individuare le squadre che hanno prodotto più giocatori classificati e come questa distribuzione è cambiata nei tre periodi.
+Grafico suggerito:
+Diagrammi a barre verticali o stacked per mostrare le squadre più rappresentate nei tre periodi.
+Diagramma a barre cumulativo per l’intero dataset.
+5. Confronto tra Percentuale di Punti dei Vincitori nei Tre Periodi
+Obiettivo: Esaminare se i vincitori hanno dominato maggiormente in uno dei periodi rispetto agli altri.
+Grafico suggerito:
+Linea temporale con le percentuali di punti dei vincitori.
+Boxplot per confronto diretto delle percentuali nei tre periodi.
+6. Relazione tra Nazionalità e Ruolo dei Giocatori
+Obiettivo: Analizzare se determinate nazionalità si specializzano in ruoli specifici (es. i difensori inglesi, gli attaccanti brasiliani).
+Grafico suggerito:
+Heatmap (mappa di calore) che mostra la frequenza dei ruoli per nazionalità.
+Diagramma a barre raggruppato per ruolo e nazionalità.
+7. Andamento Temporale del Numero di Giocatori Classificati per Nazionalità
+Obiettivo: Verificare se alcune nazionalità sono diventate più dominanti nel corso del tempo.
+Grafico suggerito:
+Linea temporale con il conteggio dei giocatori classificati per le nazionalità più rappresentate.
+Diagramma stacked (accumulato) per vedere l’evoluzione complessiva.
